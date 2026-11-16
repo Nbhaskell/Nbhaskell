@@ -4,6 +4,8 @@ I build full-stack AI applications with local models: the model reads and writes
 
 Open to remote AI engineering and full-stack roles, and to freelance work on AI tools for small businesses.
 
+Contact: [LinkedIn](https://www.linkedin.com/in/nbhaskell/)
+
 ## Local AI that cites its sources, checks its own answers, and asks before it acts
 
 Six projects, one method. A local model reads and writes. Plain code, with tests, decides what is allowed and checks every figure. A person approves anything that matters. Each project reports its numbers as they came out, on question sets kept apart from tuning, with the limits written down.
