@@ -1,4 +1,4 @@
-# Nathan Haskell, AI Engineer
+# Nathan Haskell
 
 I build full-stack AI applications in which the model reads and writes, tested code makes the decisions, and a person approves anything important.
 
