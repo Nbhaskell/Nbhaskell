@@ -1,6 +1,6 @@
 # Nathan Haskell, AI Engineer
 
-I build full-stack AI applications with local models: the model reads and writes, tested code makes the decisions, and a person approves anything important.
+I build full-stack AI applications in which the model reads and writes, tested code makes the decisions, and a person approves anything important.
 
 Open to remote AI engineering and full-stack roles, and to freelance work on AI tools for small businesses.
 
